@@ -10,6 +10,6 @@ Interactive dashboard by Tableau, showing quarterly sales, sales trend and sales
 </ul>
 
 <h2>Summary of Insights</h2>
-<h3>Subscription Types:</h3>
+<h4>Subscription Types:</h4>
 
 <h2>Recommendations & Next Steps</h2>
