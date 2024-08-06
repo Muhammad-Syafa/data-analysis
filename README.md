@@ -5,11 +5,15 @@ Interactive dashboard by Tableau, showing quarterly sales, sales trend and sales
 <h2>North Star Metrics and Dimensions</h2>
 <ul>
   <li><strong>Sales:</strong> Total subscription sales from basic, standard and premium subscription plans</li>
-  <li><strong>Subscription types:</strong>basic, standard ,or premium</li>
+  <li><strong>Subscription types:</strong>basic, standard or premium</li>
   <li><strong>Country sales:</strong> Total subscription sales per country</li>
 </ul>
 
 <h2>Summary of Insights</h2>
 <h4>Subscription Types:</h4>
+<ul>
+  <li>In the second quarter of 2022, sales of the basic plan started to increase in June and reached their peak in July at $2.39k, before fluctuating between August and October. The highest point of sales occurred in October when it reached $2.79k. However, starting in November 2022, sales dropped sharply to $0.07k and remained steady around that point.</li>
+  <li></li>
+</ul>
 
 <h2>Recommendations & Next Steps</h2>
