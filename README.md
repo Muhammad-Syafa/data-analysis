@@ -21,3 +21,8 @@ Interactive dashboard by Tableau, showing quarterly sales, sales trend and sales
 <li>The basic plan is most popular in the US, with monthly sales reaching $2.48k, followed by Italy at $2.22k per month. On the other hand, the Premium plan is more prevalent in Spain, with monthly sales reaching $2.69k, which is the highest among all countries for all subscription types.more prevalent in spain, with monthly sales reaching $2.69k per month, which is the highest monthly sales among all countries in all subscription types.</li>
 </ul>
 <h2>Recommendations & Next Steps</h2>
+<ul>
+  <li>Investigate the significant decrease in all subscription types starting from October 2022. Expand the analysis to include more data to determine whether this trend is due to issues with the platform or with the community. Also, identify any product features that could help address this decrease in subscriptions.</li>
+  <li>While the basic plan is the most popular choice, we need to consider offering trials or promotions with standard and premium plans.</li>
+  <li>The United States is the most significant contributor to basic plan sales, not the other two, so we should consider offering trials for different types of subscriptions in the United States. Meanwhile, Spain and France are the two most significant contributors to premium plan sales, so consider doing massive promotions in these countries.</li>
+</ul>
