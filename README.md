@@ -13,7 +13,11 @@ Interactive dashboard by Tableau, showing quarterly sales, sales trend and sales
 <h4>Subscription Types:</h4>
 <ul>
   <li>In the second quarter of 2022, sales of the basic plan started to increase in June and reached their peak in July at $2.39k, before fluctuating between August and October. The highest point of sales occurred in October when it reached $2.79k. However, starting in November 2022, sales dropped sharply to $0.07k and remained steady around that point.</li>
-  <li></li>
+  <li>The basic plan contributes the most to overall sales, followed by the standard and premium plans, which have similar sales trends.</li>
 </ul>
 
+<h4>Country sales:</h4>
+<ul>
+<li>The basic plan is most popular in the US, with monthly sales reaching $2.48k, followed by Italy at $2.22k per month. On the other hand, the Premium plan is more prevalent in Spain, with monthly sales reaching $2.69k, which is the highest among all countries for all subscription types.more prevalent in spain, with monthly sales reaching $2.69k per month, which is the highest monthly sales among all countries in all subscription types.</li>
+</ul>
 <h2>Recommendations & Next Steps</h2>
